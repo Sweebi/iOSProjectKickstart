@@ -1,6 +1,6 @@
 # StarterKit iOS
 
-This Starter Kit is a project which we use at 3IE everytime we have to begin a new iOS application development.
+This Starter Kit is a project which we use in our projects when we have to begin a new iOS application development.
 The main goal of this project is to create an architecture which will be the same inside all our projects.
 The objective is also to gather some frameworks we always use in order to spare us some time.
 
